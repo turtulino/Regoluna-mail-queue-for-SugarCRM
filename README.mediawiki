@@ -1,0 +1,11 @@
+= Regoluna Mail Queue =
+
+This is a complementary mail queue for SugarCRM. It doesn't replace default campaign's mail queue. It allows developers to queue multiple emails programatically in a different queue with his own config and administration.
+
+== Notice ==
+
+'''This module is at an early stage of development, do not use in production environments'''
+
+== Implemented Features ==
+
+
